@@ -1,4 +1,4 @@
-# Imobiliária
+# Gestão de Imóveis
 
 ## Objetivo
 Este aplicativo tem como objetivo permitir a gestão de imóveis de uma imobiliária.

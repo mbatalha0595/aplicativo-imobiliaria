@@ -10,6 +10,11 @@ Esta tela exibe imóveis que estão disponíveis, incluindo alguns filtros para 
 
 <img src="https://raw.githubusercontent.com/mbatalha0595/aplicativo-imobiliaria/main/images/Imoveis.jpg" width="750">
 
+### Cadastro
+Esta tela permite realizar o cadastro do imóvel em 3 passos: 1) Localização, 2) Características 3) Imagens
+
+<img src="https://raw.githubusercontent.com/mbatalha0595/aplicativo-imobiliaria/main/images/Cadastro.jpg" width="750">
+
 ### Detalhes do Imóvel
 Esta tela exibe detalhes sobre o imóvel selecionado.
 
